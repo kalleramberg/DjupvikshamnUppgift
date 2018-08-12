@@ -38,7 +38,7 @@ html, * {
 
 body {
     color: #1F1F1F;
-    background-image: url("/Users/K.Ramberg/Dropbox/Programming folder/Djupvikshamn/images/layout/body-pattern.jpeg");
+    background-image: url("../images/layout/body-pattern.jpeg");
     background-position: center;
     background-repeat: repeat;
 }
@@ -46,7 +46,7 @@ body {
 
 
 header{
-    background-image: url("/Users/K.Ramberg/Dropbox/Programming folder/Djupvikshamn/images/layout/header.png");
+    background-image: url("../images/layout/header.png");
     background-position: bottom;
     background-repeat: no-repeat;
     left:0;
