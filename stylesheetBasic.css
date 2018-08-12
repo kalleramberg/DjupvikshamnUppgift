@@ -251,7 +251,7 @@ border: 1px transparent solid;
 
 
 
-@media(max-width: 480px){
+@media(max-width: 530px){
     nav{
         display: flex;
         flex-flow: column wrap;
